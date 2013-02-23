@@ -1,0 +1,3 @@
+[submodule "BurpJDSer-ng"]
+	path = BurpJDSer-ng
+	url = git://github.com/IOActive/BurpJDSer-ng.git
