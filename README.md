@@ -5,18 +5,9 @@ A collection of extensions for the new Burp Suite API (v1.5+) using Submodules f
 
 Thanks to Mubix for inspiration (https://github.com/mubix/tools) :)
 
-Get started
+The following command should pull down the latest versions.
 
-After you pulled the repo you'll notice that none of the "submodule" repos have any files in them.
-
-To get started you need to perform the following:
-
-	git submodule init - initialize the submodules
-	git submodule update - pull & update the repos to current version
-	
-Update
-
-	git submodule update - update the repos to current version
+git pull --recurse-submodules && git submodule update --init --recursive
 
 Included:
 
