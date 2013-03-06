@@ -4,3 +4,6 @@
 [submodule "BurpAuthzPlugin"]
 	path = BurpAuthzPlugin
 	url = https://github.com/wuntee/BurpAuthzPlugin.git
+[submodule "Wsdler"]
+	path = Wsdler
+	url = git://github.com/NetSPI/Wsdler.git
