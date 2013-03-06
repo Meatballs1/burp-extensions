@@ -13,8 +13,12 @@ Included:
 
 BurpJDSer-ng
 ===============
-A Burp Extender plugin, that will deserialized java objects and encode them in XML using the Xtream library.
+Deserializes java objects and encode them in XML using the Xtream library.
 
 BurpAuthzPlugin
 ===============
-Burp plugin to test for authorization flaws
+Test for authorization flaws
+
+Wsdler
+===============
+Parses WSDL and creates SOAP requests for web services.
