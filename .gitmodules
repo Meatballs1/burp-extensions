@@ -10,3 +10,6 @@
 [submodule "Deflate-Burp-Plugin"]
 	path = Deflate-Burp-Plugin
 	url = https://github.com/GDSSecurity/Deflate-Burp-Plugin
+[submodule "jython-burp-extensions"]
+	path = jython-burp-extensions
+	url = https://github.com/mwielgoszewski/jython-burp-extensions.git
