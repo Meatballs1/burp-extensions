@@ -10,9 +10,6 @@
 [submodule "Deflate-Burp-Plugin"]
 	path = Deflate-Burp-Plugin
 	url = https://github.com/GDSSecurity/Deflate-Burp-Plugin
-[submodule "jython-burp-extensions"]
-	path = jython-burp-extensions
-	url = https://github.com/mwielgoszewski/jython-burp-extensions.git
 [submodule "WCF-Binary-SOAP-Plug-In"]
 	path = WCF-Binary-SOAP-Plug-In
 	url = https://github.com/GDSSecurity/WCF-Binary-SOAP-Plug-In.git
