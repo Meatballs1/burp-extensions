@@ -7,3 +7,6 @@
 [submodule "Wsdler"]
 	path = Wsdler
 	url = git://github.com/NetSPI/Wsdler.git
+[submodule "Deflate-Burp-Plugin"]
+	path = Deflate-Burp-Plugin
+	url = https://github.com/GDSSecurity/Deflate-Burp-Plugin
