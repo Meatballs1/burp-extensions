@@ -13,3 +13,6 @@
 [submodule "WCF-Binary-SOAP-Plug-In"]
 	path = WCF-Binary-SOAP-Plug-In
 	url = https://github.com/GDSSecurity/WCF-Binary-SOAP-Plug-In.git
+[submodule "burp_jsbeautifier"]
+	path = burp_jsbeautifier
+	url = https://github.com/Meatballs1/burp_jsbeautifier
