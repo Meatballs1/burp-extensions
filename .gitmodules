@@ -25,3 +25,6 @@
 [submodule "curlit"]
 	path = curlit
 	url = https://github.com/faffi/curlit
+[submodule "Burp-SessionAuthTool"]
+	path = Burp-SessionAuthTool
+	url = https://github.com/thomasskora/Burp-SessionAuthTool
