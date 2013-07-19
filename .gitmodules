@@ -28,3 +28,6 @@
 [submodule "Burp-SessionAuthTool"]
 	path = Burp-SessionAuthTool
 	url = https://github.com/thomasskora/Burp-SessionAuthTool
+[submodule "POST2JSON"]
+	path = POST2JSON
+	url = https://github.com/cyberisltd/POST2JSON.git
