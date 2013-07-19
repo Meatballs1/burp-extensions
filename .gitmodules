@@ -16,3 +16,6 @@
 [submodule "burp_jsbeautifier"]
 	path = burp_jsbeautifier
 	url = https://github.com/Meatballs1/burp_jsbeautifier
+[submodule "burp_wicket_handler"]
+	path = burp_wicket_handler
+	url = https://github.com/Meatballs1/burp_wicket_handler.git
