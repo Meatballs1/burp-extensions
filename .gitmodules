@@ -22,3 +22,6 @@
 [submodule "burp-protobuf-decoder"]
 	path = burp-protobuf-decoder
 	url = https://github.com/mwielgoszewski/burp-protobuf-decoder.git
+[submodule "curlit"]
+	path = curlit
+	url = https://github.com/faffi/curlit
