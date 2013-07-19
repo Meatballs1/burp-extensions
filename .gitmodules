@@ -19,3 +19,6 @@
 [submodule "burp_wicket_handler"]
 	path = burp_wicket_handler
 	url = https://github.com/Meatballs1/burp_wicket_handler.git
+[submodule "burp-protobuf-decoder"]
+	path = burp-protobuf-decoder
+	url = https://github.com/mwielgoszewski/burp-protobuf-decoder.git
