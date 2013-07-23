@@ -31,3 +31,9 @@
 [submodule "POST2JSON"]
 	path = POST2JSON
 	url = https://github.com/cyberisltd/POST2JSON.git
+[submodule "burp_saml"]
+	path = burp_saml
+	url = https://github.com/Meatballs1/burp_saml
+[submodule "burp_gwt"]
+	path = burp_gwt
+	url = https://github.com/Meatballs1/burp_gwt
